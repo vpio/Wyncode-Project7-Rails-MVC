@@ -1,0 +1,14 @@
+<h1>Github</h1>
+
+
+<%= form_tag("/", method: "get") do %>
+  <%= label_tag(:username, "Github Username:") %>
+  <%= text_field_tag(:username) %>
+  <%= submit_tag("Search") %>
+<% end %>
+
+<div>
+  <% @profile.each do |key, value| %>
+    <p><%= key %> : <%= value %></p>
+  <% end %>
+</div>
