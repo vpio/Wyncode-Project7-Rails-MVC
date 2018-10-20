@@ -1,24 +1,11 @@
-# README
+# Wyncode-Project2-Rails-MVC
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+My second weekend project at Wyncode Academy in Miami, FL.
 
-Things you may want to cover:
+We had to send requests to an API of our choosing in a rails environment. 
+This project helped me to gain familiarity with the MVC architectural pattern.
+I chose to send GET requests to the Github API in order to recieve information about particular users.
 
-* Ruby version
+<img src="assets/images/API-Weekend-Proj.png" alt="Github API Rails" width="500"/>
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+      
