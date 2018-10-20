@@ -1,4 +1,4 @@
-# Wyncode-Project2-Rails-MVC
+# Wyncode-Project7-Rails-MVC
 
 My second weekend project at Wyncode Academy in Miami, FL.
 
